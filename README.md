@@ -1,4 +1,3 @@
-# Vortex AMS
 ## Open-source Athlete Management System
 *Built by sports professionals, for sports professionals.*
 <hr>
